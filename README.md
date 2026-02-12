@@ -32,7 +32,7 @@ I am **Nirmalya Sinha**, an Electronics Engineering student exploring in the dom
 
 ### 📡 RescueVault (Offline Disaster Communication System)
 * **Overview:** A robust communication device for disaster scenarios where standard networks fail.
-* **Key Features:** Uses **ESP-NOW** for mesh networking and **FPGA (Shrike-lite)** for hardware-accelerated encryption.
+* **Key Features:** Uses **ESP_8266** for mesh networking and **FPGA (Shrike-lite)** for hardware-accelerated encryption.
 * **Tech Stack:** Arduino Mega, ESP8266, GPS Module, Verilog.
 
 ### ⚖️ Inverted Pendulum Control System
